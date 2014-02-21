@@ -1,0 +1,110 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ padding:0px; margin:0px; font-family:"微软雅黑";}
+p, td, ul, ol, li, dl, dt, dd, span, select, input, textarea{ font-family:"微软雅黑"; font-size:14px;}
+ul{ list-style:none;}
+a img{ border:none;}
+a { text-decoration:none; }
+
+/* 以下Public */
+
+.relative { position:relative; }
+.absolute { position:absolute; }
+.cursor { cursor:pointer; }
+.left { float:left; }
+
+/* header */
+#header { width:100%; height:150px; background:url(../img/bg/header_bg.png) repeat-x; }
+#header_auto { width:1024px; height:115px; margin:auto; }
+#logo { width:360px; height:115px; float:left;  }
+.header_in { height:85px; float:left; margin-top:30px; margin-left:245px; display:inline; }
+.header_login { float:left; margin-left:5px; margin-top:2px; display:inline; color:#13689f; font-weight:bold; }
+.header_marquee { float:left; margin-left:-236px; margin-top:33px; display:inline; }
+.header_auto_login { font-size:12px; float:left; margin-left:-220px; margin-top:32px; display:inline; color:#13689f; }
+.header_forget_password { font-size:12px; float:left; margin-left:-135px; margin-top:32px; display:inline; color:#13689f; }
+#header_navigation { width:1024px; height:35px; margin:auto; }
+.navigation_button_one { width:93px; height:33px; float:left; background:url(../img/icons/button_02.png); }
+.navigation_button_one:hover { width:93px; height:33px; float:left; background:url(../img/icons/button_02_01.png); }
+.navigation_button_one span { color:#FFF; font-weight:bold; font-size:16px; float:left; margin-left:30px; margin-top:5px; display:inline; }
+.navigation_button_two { width:130px; height:33px; float:left; margin-left:5px; display:inline; background:url(../img/icons/button_01.png); }
+.navigation_button_two:hover { width:130px; height:33px; float:left; margin-left:5px; display:inline; background:url(../img/icons/button_01_01.png); }
+.navigation_button_two span { color:#FFF; font-weight:bold; font-size:16px; float:left; margin-left:30px; margin-top:5px; display:inline; }
+.navigation_line { width:1024px; height:2px; background-color:#13689f; float:left; }
+.navigation_phone { color:#606060; font-size:16px; float:left; margin-left:190px; margin-top:5px; display:inline; }
+.navigation_phone_number { color:#13689f; font-size:16px; font-weight:bold; float:left; margin-left:5px; margin-top:6px; display:inline; }
+
+/* main */
+#main { width:1024px; margin:auto; }
+.main_index { width:1024px; float:left; margin-top:10px; display:inline; }
+.index_photo { width:1024px; height:559px; float:left;; background:url(../img/bg/main_bg.png); }
+.index_introduce { width:1024px; float:left; margin-top:10px; display:inline; }
+.index_introduce_box_one { width:244px; float:left; }
+.index_introduce_box_two { width:244px; float:left; margin-left:15px; display:inline; }
+.index_introduce_title { color:#13689f; font-weight:bold; float:left; }
+.index_introduce_title_more { color:#606060; float:left; margin-left:149px; display:inline; }
+.index_introduce_top5 { width:244px; float:left; margin-top:5px; display:inline; }
+.index_introduce_line { width:244px; height:2px; float:left; background-color:#21b8ef; }
+.index_introduce_word { font-size:12px; color:#606060; float:left; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
